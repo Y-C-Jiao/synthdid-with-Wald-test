@@ -66,7 +66,7 @@ A list with components:
 }
 }
 \description{
-Tests the null hypothesis of no pre-treatment trends (H0: tau_{g,t} = 0 for all
+Tests the null hypothesis of no pre-treatment trends (H0: tau_\{g,t\} = 0 for all
 t < g) using a joint Wald statistic. The statistic is asymptotically chi-squared
 with degrees of freedom equal to the number of pre-treatment (g, t) pairs.
 }
